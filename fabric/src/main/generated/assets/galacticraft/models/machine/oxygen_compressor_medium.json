@@ -1,7 +1,7 @@
 {
   "data": {
     "back": "galacticraft:block/machine_side",
-    "front": "galacticraft:block/oxygen_compressor",
+    "front": "galacticraft:block/oxygen_compressor_medium",
     "left": "galacticraft:block/machine_side",
     "right": "galacticraft:block/machine_side"
   },
